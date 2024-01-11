@@ -1,0 +1,10 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\musta\OneDrive\Desktop\Object Oriented Programing OOP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(22,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\musta\OneDrive\Desktop\Object Oriented Programing OOP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(24,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\musta\OneDrive\Desktop\Object Oriented Programing OOP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(26,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\musta\OneDrive\Desktop\Object Oriented Programing OOP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(28,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\musta\OneDrive\Desktop\Object Oriented Programing OOP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(32,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\musta\OneDrive\Desktop\Object Oriented Programing OOP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(36,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\musta\OneDrive\Desktop\Object Oriented Programing OOP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(38,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\musta\OneDrive\Desktop\Object Oriented Programing OOP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(11,11): warning C4101: 'price': unreferenced local variable
+  ConsoleApplication3.vcxproj -> C:\Users\musta\OneDrive\Desktop\Object Oriented Programing OOP\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe

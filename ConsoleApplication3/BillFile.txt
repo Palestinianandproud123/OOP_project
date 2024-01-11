@@ -1,0 +1,1 @@
+Product ID               Product Name             Prodcuct Price           Product Quantity         Total cost for product   
